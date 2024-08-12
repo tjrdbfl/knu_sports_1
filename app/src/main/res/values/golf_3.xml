@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="golf_3">
+        <item>강좌세부선택</item>
+        <item>강사: 경북대, 골프 이용 1개월/월~금 [07:00~21:00], 토[07:00~18:00]</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="faculty_course_name">
+        <item>강좌선택</item>
+        <item>강습 강습 1반</item>
+    </string-array>
+</resources>

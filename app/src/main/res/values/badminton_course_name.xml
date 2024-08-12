@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="badminton_course_name">
+        <item>강좌선택</item>
+        <item>강습 1반</item>
+        <item>강습 2반</item>
+        <item>강습 3반</item>
+        <item>강습 4반</item>
+        <item>강습 5반</item>
+        <item>강습 6반</item>
+        <item>강습 7반</item>
+        <item>강습 8반</item>
+        <item>강습 9반</item>
+        <item>강습 10반</item>
+        <item>강습 11반</item>
+        <item>강습 12반</item>
+    </string-array>
+</resources>

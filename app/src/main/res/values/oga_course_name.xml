@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oga_course_name">
+        <item>강좌선택</item>
+        <item>강습 강습 A반</item>
+        <item>강습 강습 E반</item>
+        <item>강습 강습 I반</item>
+
+        <item>강습 강습 B반</item>
+        <item>강습 강습 F반</item>
+        <item>강습 강습 J반</item>
+
+        <item>강습 강습 C반</item>
+        <item>강습 강습 G반</item>
+        <item>강습 강습 K반</item>
+
+        <item>강습 강습 D반</item>
+        <item>강습 강습 H반</item>
+        <item>강습 강습 L반</item>
+
+        <item>강습 14반</item>
+        <item>강습 15반</item>
+        <item>강습 16반</item>
+
+        <item>강습 10반</item>
+        <item>강습 11반</item>
+        <item>강습 12반</item>
+
+        <item>강습 17반</item>
+
+
+
+
+
+
+
+
+
+
+        <item>강습 강습 M반</item>
+        <item>강습 강습 N반</item>
+    </string-array>
+</resources>

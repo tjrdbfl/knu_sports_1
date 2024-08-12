@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tennis_course_name">
+    <item>강좌선택</item>
+        <item>개인강습 I반</item>
+        <item>개인강습 J반</item>
+        <item>개인강습 K반</item>
+        <item>개인강습 L반</item>
+        <item>개인강습 M반</item>
+        <item>개인강습 N반</item>
+        <item>개인강습 O반</item>
+        <item>개인강습 P반</item>
+        <item>개인강습 Q반</item>
+        <item>개인강습 R반</item>
+        <item>개인강습 S반</item>
+        <item>개인강습 T반</item>
+        <item>단체강습 입문반</item>
+
+        <item>개인강습 1-3반</item>
+        <item>개인강습 2-3반</item>
+        <item>개인강습 3-3반</item>
+        <item>개인강습 4-3반</item>
+        <item>개인강습 5-3반</item>
+        <item>개인강습 6-3반</item>
+        <item>개인강습 7-3반</item>
+        <item>개인강습 8-3반</item>
+        <item>개인강습 9-3반</item>
+        <item>개인강습 10-3반</item>
+        <item>개인강습 11-3반</item>
+        <item>개인강습 12-3반</item>
+        <item>개인강습 41-1반</item>
+        <item>개인강습 42-1반</item>
+        <item>개인강습 43-1반</item>
+        <item>개인강습 44-1반</item>
+        <item>개인강습 53-1반</item>
+        <item>개인강습 54-1반</item>
+        <item>개인강습 55-1반</item>
+        <item>개인강습 56-1반</item>
+        <item>개인강습 57-1반</item>
+        <item>개인강습 58-1반</item>
+        <item>개인강습 59-1반</item>
+        <item>개인강습 60-1반</item>
+        <item>강습 초급 1반</item>
+        <item>강습 초급 2반</item>
+        <item>강습 초급 3반</item>
+        <item>강습 초급 4반</item>
+        <item>강습 초급 5반</item>
+        <item>강습 초급 6반</item>
+        <item>강습 초급 7반</item>
+        <item>강습 초급 8반</item>
+        <item>강습 초급 9반</item>
+        <item>강습 초급 10반</item>
+        <item>강습 초급 11반</item>
+        <item>강습 초급 12반</item>
+        <item>강습 초급 13반</item>
+        <item>강습 초급 14반</item>
+        <item>강습 초급 15반</item>
+        <item>강습 초급 16반</item>
+        <item>개인강습 1-1반</item>
+        <item>개인강습 2-1반</item>
+        <item>개인강습 3-1반</item>
+        <item>개인강습 4-1반</item>
+        <item>개인강습 5-1반</item>
+        <item>개인강습 6-1반</item>
+        <item>개인강습 7-1반</item>
+        <item>개인강습 8-1반</item>
+        <item>개인강습 9-1반</item>
+        <item>개인강습 10-1반</item>
+        <item>개인강습 11-1반</item>
+        <item>개인강습 12-1반</item>
+        <item>개인강습 37-2반</item>
+        <item>개인강습 38-2반</item>
+        <item>개인강습 39-2반</item>
+        <item>개인강습 40-2반</item>
+        <item>개인강습 41-2반</item>
+        <item>개인강습 42-2반</item>
+        <item>개인강습 43-2반</item>
+        <item>개인강습 44-2반</item>
+        <item>개인강습 45-2반</item>
+        <item>개인강습 46-2반</item>
+        <item>개인강습 47-2반</item>
+        <item>개인강습 48-2반</item>
+        <item>개인강습 49-2반</item>
+        <item>개인강습 50-2반</item>
+        <item>개인강습 51-2반</item>
+        <item>개인강습 52-2반</item>
+        <item>개인강습 53-2반</item>
+        <item>개인강습 54-2반</item>
+        <item>개인강습 55-2반</item>
+        <item>개인강습 56-2반</item>
+        <item>개인강습 57-2반</item>
+        <item>개인강습 58-2반</item>
+        <item>개인강습 59-2반</item>
+        <item>개인강습 60-2반</item>
+
+
+        <item>개인강습 1-2반</item>
+        <item>개인강습 2-2반</item>
+        <item>개인강습 3-2반</item>
+        <item>개인강습 4-2반</item>
+        <item>개인강습 5-2반</item>
+        <item>개인강습 6-2반</item>
+        <item>개인강습 17-1반</item>
+        <item>개인강습 18-1반</item>
+        <item>개인강습 19-1반</item>
+        <item>개인강습 20-1반</item>
+        <item>개인강습 21-1반</item>
+        <item>개인강습 22-1반</item>
+        <item>개인강습 23-1반</item>
+        <item>개인강습 24-1반</item>
+        <item>개인강습 25-1반</item>
+        <item>개인강습 26-1반</item>
+        <item>개인강습 27-1반</item>
+        <item>개인강습 28-1반</item>
+        <item>개인강습 29-1반</item>
+        <item>개인강습 30-1반</item>
+        <item>개인강습 31-1반</item>
+        <item>개인강습 32-1반</item>
+        <item>개인강습 33-1반</item>
+        <item>개인강습 34-1반</item>
+        <item>개인강습 35-1반</item>
+        <item>개인강습 36-1반</item>
+        <item>개인강습 13-2반</item>
+        <item>개인강습 14-2반</item>
+        <item>개인강습 15-2반</item>
+        <item>개인강습 16-2반</item>
+        <item>개인강습 17-2반</item>
+        <item>개인강습 18-2반</item>
+        <item>개인강습 19-2반</item>
+        <item>개인강습 20-2반</item>
+        <item>개인강습 21-2반</item>
+        <item>개인강습 22-2반</item>
+        <item>개인강습 23-2반</item>
+        <item>개인강습 24-2반</item>
+        <item>개인강습 25-2반</item>
+        <item>개인강습 26-2반</item>
+        <item>개인강습 27-2반</item>
+        <item>개인강습 28-2반</item>
+        <item>개인강습 29-2반</item>
+        <item>개인강습 30-2반</item>
+        <item>개인강습 31-2반</item>
+        <item>개인강습 32-2반</item>
+        <item>개인강습 33-2반</item>
+        <item>개인강습 34-2반</item>
+        <item>개인강습 35-2반</item>
+        <item>개인강습 36-2반</item>
+
+    </string-array>
+</resources>

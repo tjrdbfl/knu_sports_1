@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oga_1">
+        <item>강좌세부선택</item>
+        <item>강사:이영기, 요가 개인강습반 월,수[18:30~18:45]</item>
+    </string-array>
+</resources>

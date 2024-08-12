@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tennis_5">
+        <item>강좌세부선택</item>
+        <item>강사:김한비, 테니스 개인강습반 화,목[17:00~17:15]</item>
+    </string-array>
+</resources>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.knu_sports_1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Knu_sports_1"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".ShowFacilitiesActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${MAPS_API_KEY}" />
+
+        <activity
+            android:name=".MapActivity"
+            android:exported="false"
+            android:label="@string/title_activity_map" />
+        <activity
+            android:name=".ShowCoursesActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".auth.IntroActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".auth.LoginActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".auth.JoinActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".FacilityApply"
+            android:exported="false" />
+        <activity
+            android:name=".Information_place_Tennis"
+            android:exported="false" />
+        <activity
+            android:name=".Information_place_VolleyBall"
+            android:exported="false" />
+        <activity
+            android:name=".Information_place_BasketBall"
+            android:exported="false" />
+        <activity
+            android:name=".Information_place_IndoorGym"
+            android:exported="false" />
+        <activity
+            android:name=".Information_place_SmallPlayground"
+            android:exported="false" />
+        <activity
+            android:name=".Information_place_BigPlayground"
+            android:exported="false" />
+        <activity
+            android:name=".Button5"
+            android:exported="false" />
+        <activity
+            android:name=".placeIndoorGym"
+            android:exported="false" />
+        <activity
+            android:name=".placeMultipurposeStadium"
+            android:exported="false" />
+        <activity
+            android:name=".placeSmallPlayground"
+            android:exported="false" />
+        <activity
+            android:name=".placeBigPlayground"
+            android:exported="false" />
+        <activity
+            android:name=".placePilates"
+            android:exported="false" />
+        <activity
+            android:name=".placeYoga"
+            android:exported="false" />
+        <activity
+            android:name=".placeTennis"
+            android:exported="false" />
+        <activity
+            android:name=".placeRacket"
+            android:exported="false" />
+        <activity
+            android:name=".placeGym"
+            android:exported="false" />
+        <activity
+            android:name=".placeGolfCourse"
+            android:exported="false" />
+        <activity
+            android:name=".placeSwimmingPool"
+            android:exported="false" />
+        <activity
+            android:name=".placeExterior"
+            android:exported="false" />
+        <activity
+            android:name=".Button4"
+            android:exported="false" />
+        <activity
+            android:name=".Badminton"
+            android:exported="false" />
+        <activity
+            android:name=".Dance"
+            android:exported="false" />
+        <activity
+            android:name=".Racket"
+            android:exported="false" />
+        <activity
+            android:name=".Tennis"
+            android:exported="false" />
+        <activity
+            android:name=".Golf"
+            android:exported="false" />
+        <activity
+            android:name=".Pilates"
+            android:exported="false" />
+        <activity
+            android:name=".Yoga"
+            android:exported="false" />
+        <activity
+            android:name=".CourseApplication"
+            android:exported="false" />
+        <activity
+            android:name=".Button2"
+            android:exported="false" />
+        <activity
+            android:name=".Health"
+            android:exported="false" />
+        <activity
+            android:name=".Swimming"
+            android:exported="false" />
+        <activity
+            android:name=".Button1"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

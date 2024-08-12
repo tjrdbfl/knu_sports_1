@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="golf_1">
+        <item>강좌세부선택</item>
+        <item>강사: 김도훈, 골프 강습 화,금[18:50~19:00]</item>
+    </string-array>
+</resources>

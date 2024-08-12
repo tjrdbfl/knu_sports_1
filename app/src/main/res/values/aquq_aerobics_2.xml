@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aquq_aerobics_2">
+        <item>강좌세부선택</item>
+        <item>강사:강미지, 아쿠아로빅 강습/주2회 화,목 [11:30~12:20] (토) 자유수영 [06:00~18:00]</item>
+        <item>강사:강미지, 아쿠아로빅 강습/주2회 화,목 [12:30~13:20] (토) 자유수영 [06:00~18:00]</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tennis_3">
+        <item>강좌세부선택</item>
+        <item>강사:이영기, 테니스 강습(단체) 화,목[08:00~08:50]</item>
+    </string-array>
+</resources>

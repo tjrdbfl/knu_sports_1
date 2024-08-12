@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aquq_aerobics_course_name">
+        <item>강좌선택</item>
+        <item>강습 주2회</item>
+        <item>강습 주3회</item>
+    </string-array>
+</resources>

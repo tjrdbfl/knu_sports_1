@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="membership_tennis">
+        <item>강습비 타입</item>
+        <item>재학생</item>
+        <item>교직원</item>
+        <item>교직원(배우자포함)</item>
+        <item>입주업체직원</item>
+        <item>졸업생</item>
+        <item>외부인</item>
+        <item>테니스 단체(입문반)</item>
+    </string-array>
+</resources>

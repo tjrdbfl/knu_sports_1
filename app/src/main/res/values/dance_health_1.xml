@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dance_health_1">
+        <item>강좌세부선택</item>
+        <item>강사: 심세안, 방송댄스(헬스복합) 헬스복합 1반/월,수,금 [19:00~19:50]</item>
+    </string-array>
+</resources>

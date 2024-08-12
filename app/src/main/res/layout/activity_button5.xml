@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Button5"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appbar"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbar"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#F3D2D0"
+                android:gravity="center"
+                android:text="예약 가능 시설"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#F8C0BC"
+                android:gravity="center_horizontal"
+                android:text="다음 버튼 중 1개를 고르세요"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="30dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/place_big_playground"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="center_horizontal"
+                        android:backgroundTint="#FBFBFB"
+                        android:drawableTop="@drawable/place_big_playground"
+                        android:text="대운동장        (인조잔디구장)"
+                        android:textColor="#000000"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/place_small_playground"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="center_horizontal"
+                        android:backgroundTint="#FBFBFB"
+                        android:drawableTop="@drawable/place_small_playground"
+                        android:text="소운동장"
+                        android:textColor="#000000"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/place_indoor_gym"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="center_horizontal"
+                        android:backgroundTint="#FBFBFB"
+                        android:drawableTop="@drawable/place_indoor_gym"
+                        android:text="제2체육관"
+                        android:textColor="#000000"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/place_basketball"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="center_horizontal"
+                        android:backgroundTint="#FBFBFB"
+                        android:drawableTop="@drawable/place_baseketball"
+                        android:text="야외농구장     (다목적구장)"
+                        android:textColor="#000000"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+
+
+                    <Button
+                        android:id="@+id/place_volleyball"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="center_horizontal"
+                        android:backgroundTint="#FBFBFB"
+                        android:drawableTop="@drawable/place_volleyball"
+                        android:text="야외배구장(풋살장)"
+                        android:textColor="#000000"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/place_tennis"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="center_horizontal"
+                        android:backgroundTint="#FBFBFB"
+                        android:drawableTop="@drawable/place_tennis"
+                        android:text="테니스장"
+                        android:textColor="#000000"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#F3D2D0"
+                android:gravity="center"
+                android:text="시설물 사용신청안내"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="15dp"
+                android:background="#8A8787"
+                android:backgroundTint="#8A8787" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/button5_1" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/button5_2" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

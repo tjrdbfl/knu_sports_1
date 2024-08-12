@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="facility_membership">
+        <item>신청자 소속 선택</item>
+        <item>학생</item>
+        <item>교직원</item>
+        <item>교직원(배우자포함)</item>
+        <item>입주업체직원</item>
+        <item>졸업생</item>
+        <item>일반인(성인)</item>
+        <item>일반인(초,중등)</item>
+    </string-array>
+</resources>

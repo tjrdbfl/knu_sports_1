@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="membership_golf">
+        <item>강습비 타입</item>
+        <item>강습(구성원)</item>
+        <item>자유이용(1회)</item>
+        <item>자유이용(10회)</item>
+        <item>자유이용(1개월)</item>
+    </string-array>
+</resources>

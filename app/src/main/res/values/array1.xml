@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories1">
+        <item>종목선택</item>
+        <item>골프</item>
+        <item>교수반</item>
+        <item>바디챌린지</item>
+        <item>수영(헬스복합)</item>
+        <item>아쿠아로빅</item>
+        <item>요가</item>
+        <item>테니스</item>
+        <item>필라테스(헬스복합)</item>
+        <item>헬스</item>
+        <item>방송댄스(헬스복합)</item>
+        <item>배드민턴</item>
+    </string-array>
+</resources>

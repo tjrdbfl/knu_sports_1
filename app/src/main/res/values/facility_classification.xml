@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="facility_classification">
+        <item>시설 선택</item>
+        <item>대운동장(인조잔디구장)</item>
+        <item>소운동장</item>
+        <item>제2체육관_실내 농구 코트</item>
+        <item>제2체육관_배드민턴 5번 코트</item>
+        <item>제2체육관_배드민턴 6번 코트</item>
+        <item>야외농구장_다목적 구장 1번 코트</item>
+        <item>야외농구장_다목적 구장 2번 코트</item>
+        <item>야외농구장_다목적 구장 3번 코트</item>
+        <item>야외배구장(풋살장)_풋살장</item>
+        <item>야외배구장(풋살장)_배구장 3번 코트</item>
+        <item>야외배구장(풋살장)_배구장 4번 코트</item>
+        <item>야외배구장(풋살장)_배구장 5번 코트</item>
+        <item>테니스장_테니스장 7번 코트</item>
+        <item>테니스장_테니스장 10번 코트</item>
+    </string-array>
+</resources>

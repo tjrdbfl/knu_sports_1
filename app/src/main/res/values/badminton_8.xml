@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="badminton_8">
+        <item>강좌세부선택</item>
+        <item>강사: 김은정, 배드민턴 강습 8반, 월,목 [19:45~20:00]</item>
+    </string-array>
+</resources>
